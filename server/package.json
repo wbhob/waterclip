@@ -1,0 +1,19 @@
+{
+  "name": "waterclip-server",
+  "version": "1.0.0",
+  "description": "The server running watercip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbhob/waterclip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbhob/waterclip/issues"
+  },
+  "homepage": "https://github.com/wbhob/waterclip#readme"
+}
